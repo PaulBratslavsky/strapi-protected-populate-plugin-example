@@ -1,0 +1,26 @@
+{
+   "GET /api/articles": {
+      "content-type": "api::article.article",
+      "fields": [
+         "title",
+         "description",
+         "slug"
+      ],
+      "populate": {
+         "author": {
+            "fields": [
+               "name"
+            ],
+            "populate": {
+               "avatar": {
+                  "fields": [
+                     "name",
+                     "alternativeText",
+                     "url"
+                  ]
+               }
+            }
+         }
+      }
+   }
+}
