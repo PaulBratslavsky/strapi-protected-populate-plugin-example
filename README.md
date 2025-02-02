@@ -333,9 +333,9 @@ Whether you are building an e-commerce platform, a content management system, or
 
 For more details and to contribute to the project, visit the [GitHub repository](https://github.com/strapi-community/strapi-plugin-protected-populate).
 
+Project example code [GitHub repository](https://github.com/PaulBratslavsky/strapi-protected-populate-plugin-example).
 
 ## Strapi Open Office Hours
 If you have any questions about Strapi 5 or just would like to stop by and say hi, you can join us at **Strapi's Discord Open Office Hours** Monday through Friday at 12:30 pm - 1:30 pm CST: [Strapi Discord Open Office Hours](https://discord.com/invite/strapi)
 
 <cta title="See Strapi in action with an interactive demo" text="Explore Strapi in an instant, hands-on demo set up just for you." buttontext="Access Live Demo!" buttonlink="https://strapi.io/demo"></cta>
-# strapi-protected-populate-plugin-example
